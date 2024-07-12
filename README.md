@@ -23,7 +23,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-bhalodiya&show_icons=true&locale=en&layout=compact" alt="yash-bhalodiya" /></p>
 <br><br>
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yash_bhalodiya?theme=dark&font=Numans&ext=activity)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-bhalodiya&show_icons=true&locale=en" alt="yash-bhalodiya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-bhalodiya&" alt="yash-bhalodiya" /></p>
